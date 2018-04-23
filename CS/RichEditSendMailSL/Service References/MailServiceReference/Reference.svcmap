@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1ffc0e7a-bcc2-44ba-b110-a30e211a420f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies>
+      <ReferencedAssembly AssemblyName="mscorlib" />
+      <ReferencedAssembly AssemblyName="System" />
+      <ReferencedAssembly AssemblyName="System.Core" />
+      <ReferencedAssembly AssemblyName="System.Net" />
+      <ReferencedAssembly AssemblyName="System.Runtime.Serialization" />
+      <ReferencedAssembly AssemblyName="System.ServiceModel" />
+      <ReferencedAssembly AssemblyName="System.Windows" />
+      <ReferencedAssembly AssemblyName="System.Windows.Browser" />
+    </ReferencedAssemblies>
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3407/RichEditSendMailSL.Web/MailService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MailService.xsd" MetadataType="Schema" ID="7607d1e6-0fe0-4123-ba79-ba9e24bd360a" SourceId="1" SourceUrl="http://localhost:3407/RichEditSendMailSL.Web/MailService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MailService.wsdl" MetadataType="Wsdl" ID="b58dce6f-5b39-41c9-93c6-8acdccff55b8" SourceId="1" SourceUrl="http://localhost:3407/RichEditSendMailSL.Web/MailService.svc?wsdl" />
+    <MetadataFile FileName="MailService1.xsd" MetadataType="Schema" ID="f9cb1e24-6a47-47a4-a22a-5503afe8e29f" SourceId="1" SourceUrl="http://localhost:3407/RichEditSendMailSL.Web/MailService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MailService2.xsd" MetadataType="Schema" ID="ebf48121-e3cb-480b-a596-711dfb0b22a6" SourceId="1" SourceUrl="http://localhost:3407/RichEditSendMailSL.Web/MailService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MailService.disco" MetadataType="Disco" ID="5c709aab-f396-4614-9dbc-644296863636" SourceId="1" SourceUrl="http://localhost:3407/RichEditSendMailSL.Web/MailService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
