@@ -6,7 +6,7 @@
 * [RichEditSendMailSLTestPage.aspx](./CS/RichEditSendMailSL.Web/RichEditSendMailSLTestPage.aspx) (VB: [RichEditSendMailSLTestPage.aspx](./VB/RichEditSendMailSL.Web/RichEditSendMailSLTestPage.aspx))
 * [Silverlight.js](./CS/RichEditSendMailSL.Web/Silverlight.js) (VB: [Silverlight.js](./VB/RichEditSendMailSL.Web/Silverlight.js))
 * [MainPage.xaml](./CS/RichEditSendMailSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditSendMailSL/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RichEditSendMailSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RichEditSendMailSL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RichEditSendMailSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditSendMailSL/MainPage.xaml.vb))
 * [Reference.cs](./CS/RichEditSendMailSL/Service References/MailServiceReference/Reference.cs) (VB: [Reference.vb](./VB/RichEditSendMailSL/Service References/MailServiceReference/Reference.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: Building a mail application with the RichEditControl
