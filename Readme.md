@@ -9,7 +9,7 @@
 * [App.xaml](./CS/RichEditSendMailSL/App.xaml)
 * [App.xaml.cs](./CS/RichEditSendMailSL/App.xaml.cs)
 * [MainPage.xaml](./CS/RichEditSendMailSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditSendMailSL/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RichEditSendMailSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RichEditSendMailSL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RichEditSendMailSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditSendMailSL/MainPage.xaml.vb))
 * [Reference.cs](./CS/RichEditSendMailSL/Service References/MailServiceReference/Reference.cs) (VB: [Reference.vb](./VB/RichEditSendMailSL/Service References/MailServiceReference/Reference.vb))
 * [ServiceReferences.ClientConfig](./CS/RichEditSendMailSL/ServiceReferences.ClientConfig) (VB: [ServiceReferences.ClientConfig](./VB/RichEditSendMailSL/ServiceReferences.ClientConfig))
 <!-- default file list end -->
